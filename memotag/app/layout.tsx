@@ -26,7 +26,6 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/favicons/site.webmanifest',
-  themeColor: '#ffffff',
 }
 
 export default function RootLayout({
